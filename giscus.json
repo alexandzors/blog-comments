@@ -2,7 +2,8 @@
   "origins": ["https://blog.alexsguardian.net"],
   "originsRegex": [
     "http://localhost:[0-9]+",
-    "http://127.0.0.1:[0-9]+"
+    "http://127.0.0.1:[0-9]+",
+    "https://blog.alexslab.dev"
   ],
   "defaultCommentOrder": "oldest"
 }
